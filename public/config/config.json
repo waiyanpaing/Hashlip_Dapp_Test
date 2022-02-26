@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x81053964BB283f6C031Ef338894cc6839Dd81384",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x81053964bb283f6c031ef338894cc6839dd81384",
+  "CONTRACT_ADDRESS": "0x500311D1E3471D57e87d939802b40aFBC1D09655",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x500311d1e3471d57e87d939802b40afbc1d09655",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 80001
   },
-  "NFT_NAME": "EyeTest",
-  "SYMBOL": "ET",
+  "NFT_NAME": "VimKittyV2",
+  "SYMBOL": "VKV2",
   "MAX_SUPPLY": 50,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnet.opensea.io/collection/",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/vimkitty",
   "SHOW_BACKGROUND": true
 }
